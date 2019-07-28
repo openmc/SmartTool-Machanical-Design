@@ -35,3 +35,5 @@ time.sleep(10)
 swapp.visible = 0
 time.sleep(10)
 swapp.visible = 1
+
+# going
